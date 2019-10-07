@@ -1,7 +1,7 @@
 {
   "name": "Cayman",
   "version": "1.0.0",
-  "homepage": "http://github.com/jasonlong/cayman-theme",
+  "homepage": "https://capsseminar.github.io/",
   "author": "Jason Long",
   "scss": "./scss/cayman.scss",
   "devDependencies": {
