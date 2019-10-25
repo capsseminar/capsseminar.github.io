@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>CAPS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#2948ff">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/cayman.css">
+    <link rel="shortcut icon" type="image/x-icon" href="static/Graphic%20Card%20set.png">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">CAPS Fall 2019</h1>
+      <h2 class="project-tagline">Course material for the Fall 2019 iteration of CAPS</h2>
+    </section>
+      
+    <section class="main-content">      
+      <p><strong>This course website</strong> contains the course materials for the Fall 2019 iteration CAPS. The materials for each lecture will be uploaded over the weekend before the lecture.</p> 
+      
+      <h3>
+      <a id="user-content-header-3" class="anchor" href="#header-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Lecture 1</h3>
+      
+      Lecture notes | Slides | Case
+    
+      <br>
+
+      <p><strong><a href="index.html">Back home</a></strong></p>
+    
+      <p align ="center"><img src ="static/Graphic%20card.png" alt="graphics" width="107" height="120"></p>
+
+
+      <footer class="site-footer">
+        <span class="site-footer-credits">© 2019 Option Courseware. Built with &#9000 from <a href="https://pages.github.com">GitHub</a>.</span>
+      </footer>
+     
+    </section>
+      
+  </body>
+</html>
