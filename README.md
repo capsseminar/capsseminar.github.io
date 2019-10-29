@@ -1,1 +1,1 @@
-# Homepage for CAPS course
+# Homepage for the CAPS course
